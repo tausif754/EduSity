@@ -31,7 +31,7 @@ const Contact = () => {
   };
 
   return (
-    <div className="Cotact">
+    <div className="cotact">
       <div className="contact-col">
         <h3>
           Send Us a message <img src={msg_icon} alt="" />
