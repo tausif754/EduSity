@@ -44,7 +44,7 @@ nav ul li {
   }
   nav ul {
     position: fixed;
-    top: o;
+    top: 0;
     right: 0;
     bottom: 0;
     background: #212ea0;

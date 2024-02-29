@@ -80,7 +80,7 @@ const Contact = () => {
             placeholder="Enter your message"
             required
           ></textarea>
-          <button type="submi" className="btn dark-btn">
+          <button type="submit" className="btn dark-btn">
             Submit now <img src={white_arrw} alt="" />
           </button>
         </form>
